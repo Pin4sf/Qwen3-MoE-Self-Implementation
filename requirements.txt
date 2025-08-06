@@ -1,0 +1,8 @@
+torch
+huggingface_hub
+tokenizers
+safetensors
+ipykernel
+blobfile
+ipywidgets
+sentencepiece
